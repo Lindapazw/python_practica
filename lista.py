@@ -1,4 +1,4 @@
 colors = ['red','green','blue']
 
-colors.append('violet')
+colors.extend(['rojo','negro'])
 print(colors)
