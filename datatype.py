@@ -18,10 +18,14 @@ print(30)
 print(30.5)
 
 #boolean
-
 True
 false
 
 #list 
 [10,20,30,40]
+[]
+
+#tuplas
+(10,20,30,55)
+()
 
