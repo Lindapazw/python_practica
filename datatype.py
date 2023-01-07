@@ -29,3 +29,8 @@ false
 (10,20,30,55)
 ()
 
+# Dictorionies
+{
+    "name " : "Linda",
+    "apellido" : "Paz"
+}
