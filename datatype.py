@@ -16,3 +16,10 @@ print(30)
 
 #float
 print(30.5)
+
+#boolean
+
+True
+false
+
+
